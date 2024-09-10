@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @Ogamilscip
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Ogamilscip/Ogamilscip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <body>
     <div class="container">
         <h1>Purchase My Artwork</h1>
-        <img src="artwork.jpg" alt="Artwork" class="artwork">
+        <img src="227DB89C-CA22-4D8B-84A4-02FC937C7DC0.jpeg" alt="Artwork" class="artwork">
         <p class="price">$2.00</p>
         <button id="purchase-button">Buy Now</button>
         <div id="message"></div>
